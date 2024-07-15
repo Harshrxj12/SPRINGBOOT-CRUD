@@ -2,7 +2,6 @@
   <h3>This Is A Simple Spring Boot REST API CRUD Application.</h3>
   <p>Following Are The Features Of The Application</p>
   <ul>
-
     <li>POST Data</li>
      <li>PUT Data</li>
       <li>DELETE Data</li>
@@ -10,7 +9,6 @@
   </ul>
 
   <table>
-
     <tr>
     <th>Serial ID</th>
     <th>Method</th>
@@ -41,7 +39,6 @@
     <th>HTTP://localhost:8080/api/put/{id}</th>
     <th>Updating Data By ID</th>
     </tr>
-
                 <tr>
     <td>5</td>
     <td>Delete</td>
