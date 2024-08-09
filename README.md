@@ -46,6 +46,7 @@
     <th>Deleting Data By ID</th>
     </tr>
   </table>
+<img src = "D:\SPRING BOOT\PIC1.png"> 
 
   </center>
 
