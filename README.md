@@ -46,7 +46,7 @@
     <th>Deleting Data By ID</th>
     </tr>
   </table>
-<img src = "https://drive.google.com/file/d/157Hj0f88idZYePdN7zBy0IoDdXEQodRF/view?usp=drive_link" width = "100"> 
+<img src = "https://drive.google.com/file/d/157Hj0f88idZYePdN7zBy0IoDdXEQodRF/view?usp=drive_link" alt = "Springboot Properties"> 
 
   </center>
 
